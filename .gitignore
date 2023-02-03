@@ -4,9 +4,9 @@
 .idea/
 # Project exclude paths
 /api/build/
-/api/build/classes/java/main/
+/api/build/classes/
 /build/
 /db/build/
-/db/build/classes/java/main/
+/db/build/classes/
 /service/build/
-/service/build/classes/java/main/
+/service/build/classes/

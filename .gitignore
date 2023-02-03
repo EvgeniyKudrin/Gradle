@@ -1,6 +1,5 @@
 /shelf/
 /workspace.xml
-src/
 .gradle/
 .idea/
 # Project exclude paths

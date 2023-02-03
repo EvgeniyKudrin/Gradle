@@ -2,3 +2,6 @@
 /workspace.xml
 .gradle/
 .idea/
+/api/build/
+/db/build/
+/service/build/

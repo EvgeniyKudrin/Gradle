@@ -2,11 +2,3 @@
 /workspace.xml
 .gradle/
 .idea/
-# Project exclude paths
-/api/build/
-/api/build/classes/
-/build/
-/db/build/
-/db/build/classes/
-/service/build/
-/service/build/classes/

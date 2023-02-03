@@ -1,0 +1,13 @@
+/shelf/
+/workspace.xml
+src/
+.gradle/
+.idea/
+# Project exclude paths
+/api/build/
+/api/build/classes/java/main/
+/build/
+/db/build/
+/db/build/classes/java/main/
+/service/build/
+/service/build/classes/java/main/
